@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Geometry Processing](#geometry-processing)
+- [Geometry Representation](#geometry-representation)
     - [Mesh](#mesh)
     - [Point Cloud](#point-cloud)
     - [Voxel](#voxel)
@@ -14,7 +14,7 @@
     - [Open3D](#open3d)
     - [PyVista](#pyvista)
 
-## Geometry Processing
+## Geometry Representation
 
 ### Mesh
 
